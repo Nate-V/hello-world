@@ -1,2 +1,2 @@
 # hello-world
-A place to store ideas
+A place to store ideas and resources
